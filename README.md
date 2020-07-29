@@ -58,4 +58,4 @@ Hexadecimal is known as the base-16 system and is composed of 0,1,2,3,4,5,6,7,8,
 ## In Conclusion...
 In conclusion, number systems are very important and necessary when working in the digital world and with computers. Although all of my examples show how to convert to decimal, you can also convert to any of the other systems: binary, octal, decimal, and hexadecimal. Down below is a link to show how all of the different systems relate. 
 
-[More help on converting](https://www.tutorialspoint.com/computer_logical_organization/number_system_conversion.htm)
+[More Help on Converting](https://www.tutorialspoint.com/computer_logical_organization/number_system_conversion.htm)
