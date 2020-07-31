@@ -2,7 +2,7 @@
 
 ##### Written By: Grace Hardester
 
-Conversion of numbers is important when working in the digital world. No matter how old or how young, if you want to work in the digital world, you need to know this information! There are lots of different ways numbers can be converted and they all have their own purpose. For this project, I am going to talk about Decimal, Binary, Octal,and Hexadecimal.  
+Conversion of numbers is important when working in the digital world. No matter how old or how young, if you want to work in the digital world, you need to know this information! There are lots of different ways numbers can be converted and they all have their own purpose. For this project, I am going to talk about Decimal, Binary, Octal, and Hexadecimal.  
 
 ## Decimal
 
