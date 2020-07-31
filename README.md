@@ -40,7 +40,7 @@ Octal is known as the base-8 system and contains the digits 0,1,2,3,4,5,6,7. It 
 Hexadecimal is known as the base-16 system and is composed of 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F. Only single digit numbers are allowed when using Hexadecimal, so because of that, A through F represents the two digit numbers 10 through 15: 
 * A=10, B=11, C=12, D=13, E=14, F=15
 
-We use hexadecimal because instead of representing a number with 8 digits, we can do it with two. For example, in order to represent the number 255 in Binary you would need eight 1s (11111111), but in hexicadecimal, it only takes two values (FF). The chart below will explain how to convert from Hexadecimal to Binary.
+We use hexadecimal because instead of representing a number with 8 digits, as we do in binary, we can do it with two hexadecimal positions. Each hexadecimal position represents 4 bits. For example, in order to represent the number 255 in Binary you would need eight 1s (11111111), but in hexicadecimal, it only takes two values (FF). The chart below will explain how to convert from Hexadecimal to Binary.
 
 | Base-16  | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7  | 8 | 9 | A  | B  | C  | D  | E  | F  |
 |----------|---|---|---|---|---|---|---|----|---|---|----|----|----|----|----|----|
